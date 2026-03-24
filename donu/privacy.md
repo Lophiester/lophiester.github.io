@@ -1,26 +1,44 @@
 # Privacy Policy for Donu
 Effective Date: October 10, 2025
 
-Your privacy is important to us. Donu was designed from the ground up to be a private, secure space for your tasks and ideas.
+Donu is designed to keep your task data private and to minimize data sharing.
 
-## Data We Do Not Collect
-Our philosophy is simple: we do not collect, store, or have access to any of your personal data.
+## Information Stored on Your Device
+Your categories, tasks, and most app data are stored locally on your device using Apple technologies such as SwiftData.
 
-All the information you create in the app, including your categories and tasks, is stored locally and securely on your device using Apple's SwiftData framework. Your data never leaves your device and is never sent to any server.
+## Information Sent Off Device
+If you use Donu’s AI chat or AI-assisted features, the app sends the content required to process your request to our backend services hosted with Firebase Functions. This may include:
 
-Because we collect no data, we also do not:
+- your message to Donu
+- recent chat history
+- relevant task and category context needed to answer or perform requested actions
 
-Collect analytics or track your usage.
+This information is sent only to provide the AI functionality you request.
 
-Share any information with third parties.
+## Permissions
+Donu may request access to:
 
-Collect location information.
+- Notifications, to send task reminders and proactive alerts
+- Photos (add-only), only when you choose to export or save shared content
 
-## Children's Privacy
-The Donu app is safe for users of all ages, including children. Since the app does not collect any personal information whatsoever, we do not knowingly solicit or collect data from anyone.
+These permissions are optional and are only used for the related feature.
+
+## Data Sharing
+We do not sell your personal information.
+We do not use your data for advertising or tracking.
+We do not use third-party analytics SDKs for behavioral profiling.
+
+However, when you use AI features, necessary data is processed by our service providers, including Firebase/Google infrastructure, solely to operate the feature.
+
+## Data Retention
+Chat history is stored locally in the app.
+Data sent to backend services is processed to serve your request. Service providers may temporarily handle technical data as required to operate and secure the service.
+
+## Children’s Privacy
+Donu is not intended to collect personal information from children knowingly. If you believe a child has provided personal information through the app, please contact us so we can review the issue.
 
 ## Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this page periodically for any changes.
+We may update this Privacy Policy from time to time. Any changes will be posted in the updated policy.
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, please do not hesitate to contact us through the support link provided on the Donu App Store page.
+If you have questions about this Privacy Policy, please contact us through the support link on the Donu App Store page.
