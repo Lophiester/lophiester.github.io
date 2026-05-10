@@ -6,6 +6,9 @@ Donu is designed to keep your task data private and to minimize data sharing.
 ## Information Stored on Your Device
 Your categories, tasks, chat history, and most app data are stored locally on your device using Apple technologies such as SwiftData.
 
+### iCloud Sync
+If you are signed into iCloud, Donu uses CloudKit to sync your categories and tasks across your devices. This data is stored in your personal iCloud account and is governed by [Apple's Privacy Policy](https://www.apple.com/legal/privacy/). We do not have access to your iCloud data.
+
 ## Information Sent Off Device
 
 ### AI Chat Features
